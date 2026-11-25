@@ -1,0 +1,11 @@
+customtkinter>=5.2
+pillow>=10.0
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.8
+joblib>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+opencv-python>=4.10
+ultralytics>=8.3
